@@ -6,6 +6,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 A business/corporate style responsive site template. It's pretty barebones but should
 go over pretty well for folks wanting to get their serious business on.
 
+
 Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
 you can use for pretty much whatever.
 
